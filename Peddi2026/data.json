@@ -1,0 +1,83 @@
+{
+  "movieName": "Peddi",
+  "yearReleased": "2026",
+  "languages": [
+    "Hindi",
+    "Telugu"
+  ],
+  "quality": "4K",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+  "streamLink": "https://hdstream4u.com/file/nzit8caxmp68",
+  "streamLink2": "",
+  "rating": "5.6",
+  "runtime": 189,
+  "synopsis": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+  "trailerKey": "AdEE5xFQelY",
+  "cast": [
+    {
+      "name": "Ram Charan",
+      "character": "Peddi Pehelwan",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg"
+    },
+    {
+      "name": "Janhvi Kapoor",
+      "character": "Achiyyamma",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2VqBDc19br9CIitXUFkZ52q7V2o.jpg"
+    },
+    {
+      "name": "Shiva Rajkumar",
+      "character": "Gournaidu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/aOQ6tjRLjMReW8Pig9PjJaudl5b.jpg"
+    },
+    {
+      "name": "Jagapati Babu",
+      "character": "Appalasoori",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+      "name": "Divyendu Sharma",
+      "character": "Ram Bujji",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/rGlCCQtOBiNJULfB5w0FXgPPKw0.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "character": "Kiran Singh Baiswal",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+      "name": "Ravi Kishan",
+      "character": "Ranadheer Sisodia",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/rkUTRk0tuA98RepP9jhgcCbhHqy.jpg"
+    },
+    {
+      "name": "Rao Ramesh",
+      "character": "Subhadra Rao",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+      "name": "Upendra Limaye",
+      "character": "Villager",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg"
+    },
+    {
+      "name": "John Vijay",
+      "character": "Ammathalli",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+      "name": "Tinnu Anand",
+      "character": "Vishnukant Tiwari",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    },
+    {
+      "name": "Sooraj Pops",
+      "character": "Kurumaiah",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/xyRZ0qNptumOBhws7lygHhhEHf2.jpg"
+    }
+  ]
+}
