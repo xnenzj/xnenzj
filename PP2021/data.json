@@ -1,0 +1,84 @@
+{
+  "movieName": "Pushpa: The Rise",
+  "yearReleased": "2021",
+  "languages": [
+    "Hindi",
+    "Telugu"
+  ],
+  "quality": "4K",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg",
+  "streamLink": "https://hdstream4u.com/file/xhzfc50jt0hx",
+  "streamLink2": "",
+  "rating": "6.8",
+  "runtime": 179,
+  "synopsis": "As Pushpa, a labourer, rises in the world of red sandalwood smuggling, he ends up making many enemies. However, violence ensues when the police try to topple his illegal business.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/jQIcn51nsvMrpB9NFwEOb9QHhFt.jpg",
+  "trailerKey": "ou6h-22tMnA",
+  "cast": [
+    {
+      "name": "Allu Arjun",
+      "character": "Pushpa Raj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/T0for90ZpP77Fbz1Tptjn8kqms.jpg"
+    },
+    {
+      "name": "Fahadh Faasil",
+      "character": "Bhanwar Singh Shekhawat",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+      "name": "Rashmika Mandanna",
+      "character": "Srivalli",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/lj16BGfdqygHF8PZVt2KO8GUXn1.jpg"
+    },
+    {
+      "name": "Jagadeesh Bandari",
+      "character": "Kesava",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/cntovFhpWby0XJdMszCJCTrLk2g.jpg"
+    },
+    {
+      "name": "Sunil Varma",
+      "character": "Mangalam Srinu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "name": "Anasuya Bharadwaj",
+      "character": "Dakshayani",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/cZMxb2I5XZHVrRG9RrpbffFxTuZ.jpg"
+    },
+    {
+      "name": "Dhananjay",
+      "character": "Jolly Reddy",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/iP416IUdOjeFSVLWKiYoGBvY2Fu.jpg"
+    },
+    {
+      "name": "Ajay Ghosh",
+      "character": "Konda Reddy",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+      "name": "Rao Ramesh",
+      "character": "Bhumireddy Siddappa Naidu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+      "name": "Ajay",
+      "character": "Molleti Mohan Raj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+      "name": "Shanmukh",
+      "character": "Jakka Reddy",
+      "profileUrl": ""
+    },
+    {
+      "name": "Kalpalatha",
+      "character": "Parvathamma",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg"
+    }
+  ]
+}
