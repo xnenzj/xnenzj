@@ -1,0 +1,83 @@
+{
+  "movieName": "Pushpa 2 - The Rule",
+  "yearReleased": "2024",
+  "languages": [
+    "Hindi",
+    "Telugu"
+  ],
+  "quality": "4K",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/1T21FblunT0y8fz7YaW8JMYgUKm.jpg",
+  "streamLink": "https://hdstream4u.com/file/mer285prk98y",
+  "streamLink2": "",
+  "rating": "6.2",
+  "runtime": 225,
+  "synopsis": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+  "genres": [
+    "Drama",
+    "Action"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/7jGItf7idJsBm9QTNoTNTU3KiGe.jpg",
+  "trailerKey": "",
+  "cast": [
+    {
+      "name": "Allu Arjun",
+      "character": "Pushpa Raj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/T0for90ZpP77Fbz1Tptjn8kqms.jpg"
+    },
+    {
+      "name": "Rashmika Mandanna",
+      "character": "Srivalli",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/lj16BGfdqygHF8PZVt2KO8GUXn1.jpg"
+    },
+    {
+      "name": "Fahadh Faasil",
+      "character": "Bhanwar Singh Shekhawat",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+      "name": "Jagadeesh Bandari",
+      "character": "Kesava",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/cntovFhpWby0XJdMszCJCTrLk2g.jpg"
+    },
+    {
+      "name": "Rao Ramesh",
+      "character": "Bhumireddy Siddappa Naidu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+      "name": "Sunil Varma",
+      "character": "Mangalam Srinu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "name": "Anasuya Bharadwaj",
+      "character": "Dakshayani",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/cZMxb2I5XZHVrRG9RrpbffFxTuZ.jpg"
+    },
+    {
+      "name": "Ajay",
+      "character": "Molleti Mohan Raj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+      "name": "Kalpalatha",
+      "character": "Parvathamma",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg"
+    },
+    {
+      "name": "Pavani Karanam",
+      "character": "Molleti Kaveri",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/v6U8bCFGs6PmYnYoiB6XbEtBtDc.jpg"
+    },
+    {
+      "name": "Shri Tej",
+      "character": "Molleti Dharma Raj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/y6dgQSfgby9axsePHsXnHRPHSH1.jpg"
+    },
+    {
+      "name": "Brahmaji",
+      "character": "SI Kupparaj",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    }
+  ]
+}
