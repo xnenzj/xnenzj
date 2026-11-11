@@ -1,0 +1,87 @@
+{
+  "movieName": "Ramayana: Rise of a Legend",
+  "yearReleased": "2026",
+  "languages": [
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Kannada"
+  ],
+  "quality": "HD",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+  "streamLink": "https://hdstream4u.com/file/xo7art4esbzi",
+  "streamLink2": "",
+  "rating": "7.7",
+  "runtime": 201,
+  "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+  "trailerKey": "AYkPRN874m8",
+  "cast": [
+    {
+      "name": "Ranbir Kapoor",
+      "character": "Prince Rama / Parashurama",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+    },
+    {
+      "name": "Yash",
+      "character": "Ravana",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg"
+    },
+    {
+      "name": "Sai Pallavi",
+      "character": "Sita",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+    },
+    {
+      "name": "Ravi Dubey",
+      "character": "Lakshmana",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
+    },
+    {
+      "name": "Arun Govil",
+      "character": "King Dashrath",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
+    },
+    {
+      "name": "Lara Dutta",
+      "character": "Kaikeyi",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/tt0qUlMx7tlDa8XyhBm6OQPurG0.jpg"
+    },
+    {
+      "name": "Rakul Preet Singh",
+      "character": "Surpanakha",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/4n4MmOFNyxKc4qMfzyapglvDDlF.jpg"
+    },
+    {
+      "name": "Indira Krishnan",
+      "character": "Kaushalya",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/fbN5eUSX9UjizTfotFh8Ka6NyqV.jpg"
+    },
+    {
+      "name": "Sonal Jha",
+      "character": "Sumitra",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/buTWA0SHsB9ZQwBrgSxotNle0Rf.jpg"
+    },
+    {
+      "name": "Adinath Kothare",
+      "character": "Bharata",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/mqvDNAFiy2kkFZZUJCyIgM46nm1.jpg"
+    },
+    {
+      "name": "Kajal Aggarwal",
+      "character": "Mandodari",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+      "name": "Nitish Sharma",
+      "character": "Shatrughna",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/rOJuahpVwaRt3caFjC5jGUC0M5S.jpg"
+    }
+  ]
+}
