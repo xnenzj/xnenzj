@@ -1,0 +1,83 @@
+{
+  "movieName": "Ant-Man and the Wasp",
+  "yearReleased": "2018",
+  "languages": [
+    "English"
+  ],
+  "quality": "HD",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+  "streamLink": "https://turboembed.com/zdij",
+  "streamLink2": "",
+  "rating": "6.9",
+  "runtime": 119,
+  "synopsis": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+  "trailerKey": "UUkn-enk2RU",
+  "cast": [
+    {
+      "name": "Paul Rudd",
+      "character": "Scott Lang / Ant-Man",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Evangeline Lilly",
+      "character": "Hope Van Dyne / Wasp",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+    },
+    {
+      "name": "Michael Douglas",
+      "character": "Dr. Hank Pym",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "name": "Hannah John-Kamen",
+      "character": "Ava / Ghost",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2fqNQQW3B7upH4rBubhxXkIIoGk.jpg"
+    },
+    {
+      "name": "Randall Park",
+      "character": "Jimmy Woo",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Janet Van Dyne / Wasp",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "character": "Dr. Bill Foster",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "name": "Michael Peña",
+      "character": "Luis",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "name": "Walton Goggins",
+      "character": "Sonny Burch",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    },
+    {
+      "name": "Bobby Cannavale",
+      "character": "Paxton",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Maggie",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      "name": "T.I.",
+      "character": "Dave",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/dHnR4QavU2ILjvbr3SXBh4cJSdJ.jpg"
+    }
+  ]
+}
