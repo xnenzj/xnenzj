@@ -1780,7 +1780,7 @@
         "order no":  25,
         "movie name":  "Daredevil Season 1",
         "section":  "THE STREET LEVEL TRACK",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/61889/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/91fFBazOvuNjwjcES2b199Ukspn.jpg",
@@ -1835,7 +1835,58 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/9?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP10",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/10?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP11",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/11?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP12",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/12?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP13",
+                             "stream_link":  "https://vidly.pro/tv/61889/1/13?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2015",
@@ -1854,7 +1905,7 @@
         "order no":  26,
         "movie name":  "Jessica Jones Season 1",
         "section":  "THE STREET LEVEL TRACK",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/38472/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/sOlFqP13d3GFp7ccCHgcfTgWIWu.jpg",
@@ -1909,7 +1960,58 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/9?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP10",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/10?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP11",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/11?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP12",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/12?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP13",
+                             "stream_link":  "https://vidly.pro/tv/38472/1/13?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2015",
@@ -1927,7 +2029,7 @@
         "order no":  27,
         "movie name":  "Daredevil Season 2",
         "section":  "THE STREET LEVEL TRACK",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/61889/2/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/91fFBazOvuNjwjcES2b199Ukspn.jpg",
@@ -1982,7 +2084,58 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/9?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP10",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/10?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP11",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/11?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP12",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/12?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP13",
+                             "stream_link":  "https://vidly.pro/tv/61889/2/13?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2016",
@@ -2126,7 +2279,7 @@
         "order no":  29,
         "movie name":  "Daredevil Season 3",
         "section":  "THE STREET LEVEL TRACK",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/61889/3/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/91fFBazOvuNjwjcES2b199Ukspn.jpg",
@@ -2181,7 +2334,58 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/9?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP10",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/10?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP11",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/11?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP12",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/12?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP13",
+                             "stream_link":  "https://vidly.pro/tv/61889/3/13?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2018",
@@ -2325,7 +2529,7 @@
         "order no":  31,
         "movie name":  "WandaVision",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/85271/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/kV1PPpUtxRE7lXYvur7DW41LEDn.jpg",
@@ -2380,7 +2584,42 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/85271/1/9?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
@@ -2399,7 +2638,7 @@
         "order no":  32,
         "movie name":  "The Falcon and the Winter Soldier",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/88396/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
@@ -2454,7 +2693,30 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/88396/1/6?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
@@ -2569,7 +2831,7 @@
         "order no":  34,
         "movie name":  "What If...? Season 1",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/91363/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
@@ -2582,7 +2844,42 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/91363/1/9?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
@@ -2749,7 +3046,7 @@
         "order no":  37,
         "movie name":  "Hawkeye â€” episodes 1â€“5",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/88329/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
@@ -2804,7 +3101,26 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/5?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
@@ -2897,7 +3213,7 @@
         "order no":  39,
         "movie name":  "Hawkeye â€” episode 6 (finale)",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/88329/1/6?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
@@ -2952,7 +3268,10 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/88329/1/6?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
@@ -3142,7 +3461,7 @@
         "order no":  42,
         "movie name":  "Ms. Marvel",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/92782/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/oBpOjLAH8heYNNJZN1Z5jVQhAKC.jpg",
@@ -3197,7 +3516,30 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/92782/1/6?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2022",
@@ -3290,7 +3632,7 @@
         "order no":  44,
         "movie name":  "She-Hulk: Attorney at Law",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/92783/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/x8lBkm9CBJbIlLpqjEwkQydZ2or.jpg",
@@ -3345,7 +3687,42 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/6?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP07",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/7?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP08",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/8?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP09",
+                             "stream_link":  "https://vidly.pro/tv/92783/1/9?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2022",
@@ -3681,7 +4058,7 @@
         "order no":  49,
         "movie name":  "Secret Invasion",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/114472/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg",
@@ -3736,7 +4113,30 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/114472/1/6?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2024",
@@ -3830,7 +4230,7 @@
         "order no":  51,
         "movie name":  "Echo",
         "section":  "THE MULTIVERSE SAGA: PHASE 4-5",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/122226/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg",
@@ -3885,7 +4285,26 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/122226/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/122226/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/122226/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/122226/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/122226/1/5?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2024",
@@ -4863,7 +5282,7 @@
         "order no":  64,
         "movie name":  "Ironheart",
         "section":  "THE FINAL RUN",
-        "movie stream link":  "",
+        "movie stream link":  "https://vidly.pro/tv/114471/1/1?color=E50914&autoplay=1",
         "skip":  0,
         "character or main crew or main cast character image urls":  [
                                                                          "https://image.tmdb.org/t/p/original/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg",
@@ -4918,7 +5337,30 @@
                                   }
                               ],
         "episodes":  [
-
+                         {
+                             "episode":  "EP01",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/1?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP02",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/2?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP03",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/3?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP04",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/4?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP05",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/5?color=E50914&autoplay=1"
+                         },
+                         {
+                             "episode":  "EP06",
+                             "stream_link":  "https://vidly.pro/tv/114471/1/6?color=E50914&autoplay=1"
+                         }
                      ],
         "type":  "TV Series",
         "year":  "2021",
