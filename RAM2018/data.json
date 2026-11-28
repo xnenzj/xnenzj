@@ -1,0 +1,82 @@
+{
+  "movieName": "Rangasthalam",
+  "yearReleased": "2018",
+  "languages": [
+    "Telugu"
+  ],
+  "quality": "HD",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/oZGZ8jJ3y64goe5NEqteEeXsfyJ.jpg",
+  "streamLink": "https://vidly.pro/movie/461126?color=E50914&autoplay=1",
+  "streamLink2": "",
+  "rating": "7.3",
+  "runtime": 179,
+  "synopsis": "Chitti Babu begins to suspect his elder brother's life is in danger after they team up to lock horns with their village president and overthrow his unlawful 30 year old regime.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/6JdOkSgd8wkAQbT6Ncib4DrnyiS.jpg",
+  "trailerKey": "sueMmTm-M4Y",
+  "cast": [
+    {
+      "name": "Ram Charan",
+      "character": "Chelluboyina Chitti Babu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg"
+    },
+    {
+      "name": "Aadhi Pinisetty",
+      "character": "Chelluboyina Kumar Babu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/m5HrEYFIPaO73RCGLrPbpoqKRxt.jpg"
+    },
+    {
+      "name": "Samantha Ruth Prabhu",
+      "character": "Ramalakshmi",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2BR0O7JYwt3jQunWYTaynrQ6rou.jpg"
+    },
+    {
+      "name": "Jagapati Babu",
+      "character": "Phanindra Bhupathi",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "character": "Dakshina Murthy",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+      "name": "Anasuya Bharadwaj",
+      "character": "Kolli Rangammatta",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/cZMxb2I5XZHVrRG9RrpbffFxTuZ.jpg"
+    },
+    {
+      "name": "Mahesh Achanta",
+      "character": "Mahesh",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg"
+    },
+    {
+      "name": "Naresh",
+      "character": "Koteswara Rao",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg"
+    },
+    {
+      "name": "Rohini",
+      "character": "Gantham",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/oeT5DXeqsTY17DtJLTGpQec91fr.jpg"
+    },
+    {
+      "name": "Annie",
+      "character": "Chittibabu's sister",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/hnExzXREAdpvzHaHKo7ZrkE27hq.jpg"
+    },
+    {
+      "name": "Satya",
+      "character": "Veera Babu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/fWHqfjiqnORU6R2fqwiJnowujdP.jpg"
+    },
+    {
+      "name": "Ajay Ghosh",
+      "character": "Sheshu Naidu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    }
+  ]
+}
